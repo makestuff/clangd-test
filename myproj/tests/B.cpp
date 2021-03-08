@@ -1,5 +1,6 @@
 #include <iostream>
+#include <boost/utility.hpp>
 
 void testB() {
-  std::cout << "Hello from A.cpp!\n";
+  std::cout << "Hello from B.cpp!\n";
 }
